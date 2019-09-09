@@ -1,0 +1,5 @@
+---
+applications:
+ - name: mss4507
+   random-route: true
+   memory: 128M
